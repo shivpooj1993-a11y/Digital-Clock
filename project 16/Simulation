@@ -1,0 +1,11 @@
+Time = 0 ns | Reset = 1 | 00:00:00
+Time = 20 ns | Reset = 0 | 00:00:00
+Time = 30 ns | Reset = 0 | 00:00:01
+Time = 50 ns | Reset = 0 | 00:00:02
+...
+TEST 1 PASSED: Seconds rollover
+TEST 2 PASSED: Minutes rollover
+TEST 3 PASSED: 24-hour rollover
+----------------------------------
+Digital Clock Simulation Complete
+----------------------------------
